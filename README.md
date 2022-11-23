@@ -1,2 +1,2 @@
-# alura_Formacao-Rust
-FOrmação da Alura da linguagem Rust
+# Alura Formação Rust
+Cursos da formação de Rust da Alura 

@@ -4,7 +4,8 @@ fn ownership() {
 
     // string estática let s_string = ("Bernardo");
 
-    // string dinâmica
+    // string dinâmica são alocadas na heap
+    // Na head o ciclo de vida é maior que na stack
     let s_string = String::from("Bernardo");
     rouba(s_string);
 }
